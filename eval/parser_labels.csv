@@ -1,0 +1,41 @@
+row,min_age,max_age,income_cap,women_only,note
+1605,,,120000,0,monthly caps differ by worker type; highest = 10000/month
+466,,30,,0,max age applies to the worker's child
+1102,,,,1,should be a girl
+433,,,22375,0,rural 20000 / urban 22375
+1020,,,,0,
+878,,,450000,0,
+1100,,,,0,"not an income tax payer" is not a numeric cap
+177,,,,0,applies to institutions
+1933,18,35,,0,
+1379,60,,,0,pension needs age 60+; 18-60 is only the registration rule
+136,18,,,0,
+165,,,250000,1,SC girls; text says 'Income Limit: More than 2.50 Lakh' (read as the cap)
+527,,,,0,
+992,,,1000000,0,
+1234,,,,0,award for panchayats
+476,,,,1,ST girl students
+1988,,,,0,
+1878,,,,0,
+1153,,,200000,0,
+223,,,,0,explicitly no income limit
+727,,,,0,
+90,,,48000,1,4000 per month
+1602,,,,0,
+684,18,55,,0,registration 18-65 but application needs <=55
+1051,,,,0,applicant is the worker (any gender)
+1990,,,120000,0,two caps; higher one
+437,,,,0,
+717,18,45,,0,
+335,,,,0,
+344,,,,0,
+933,60,,,0,
+1185,18,,200000,0,bride 18+ / groom 21+
+2024,18,,150000,1,
+1600,,,100000,0,
+380,20,,,1,widow remarriage
+1466,,,250000,0,
+1121,,,,0,
+1441,14,60,,0,
+1463,,,,0,
+710,,,,0,

@@ -1,0 +1,31 @@
+row,min_age,max_age,income_cap,women_only,note
+1768,19,35,,0,
+956,18,35,,0,source text garbled ('18-3 • 5'); worker age 18-35
+1197,18,59,,1,pregnant unorganised worker
+1246,,55,,0,
+1936,21,65,,0,
+1714,,,,0,
+79,,,250000,0,
+1887,,,,0,applies to govt employees; ages are for dependants
+946,,,600000,0,
+181,,,30000,1,girl child
+474,,50,,1,"source says '≥50' (garbled); upper age limit 50"
+358,18,,300000,0,income cap applies to employed applicants
+838,,,,0,
+1673,6,,,0,6-18 special education / 18+ vocational
+1891,,,,1,pregnant women and newborns
+1535,,45,,0,40 male / 45 female; permissive = 45
+1901,,,6000,0,500 per month
+249,,,,0,explicitly male and female
+1259,,,,0,
+1793,,,,0,
+890,,,,0,
+573,,,,0,
+228,,,,0,
+1760,,,,0,
+644,,,,0,
+632,,,,0,
+1194,,,,0,
+275,,,,0,
+1132,,,,0,
+1318,,,,0,
